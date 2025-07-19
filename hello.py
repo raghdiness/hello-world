@@ -26,3 +26,4 @@ print ("rolling in the deep learning...🎶🎵😅 wait can I use emojis?!!! th
 print ("couldn't get any work done, but learned about regularization and standardization, I also got 2 hrs of OT, which can help with the coming days!")
 print ("I'm stuck! I don't want to lose momentum!")
 print ("kinda finding my momentum back...!")
+print ("another day goes by...")
