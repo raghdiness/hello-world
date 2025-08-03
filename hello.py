@@ -27,3 +27,4 @@ print ("couldn't get any work done, but learned about regularization and standar
 print ("I'm stuck! I don't want to lose momentum!")
 print ("kinda finding my momentum back...!")
 print ("another day goes by...")
+print ("hope I don't get stuck in a new rutt")
